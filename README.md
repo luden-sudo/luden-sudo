@@ -30,7 +30,7 @@
 
 ## Featured projects · Proyectos destacados
 
-| | |
+| Project · Proyecto | What it does · Qué hace |
 |---|---|
 | 🗓️ **[luden.work](https://github.com/luden-sudo/luden.work)** <br/><sub>[Live ↗](https://luden.work)</sub> | Agenda, personal finance and order tracking in one bilingual web app.<br/><sub>Agenda, finanzas personales y seguimiento de pedidos en una sola app web bilingüe.</sub><br/><sub>`TypeScript` `Next.js` `Supabase`</sub> |
 | ◎ **[ClaimSolana](https://github.com/luden-sudo/ClaimSolana)** | Reclaim the SOL locked in empty token accounts. 0% fees, open source, non-custodial.<br/><sub>Recupera el SOL bloqueado en cuentas de tokens vacías. Sin comisiones, código abierto y sin custodia.</sub><br/><sub>`TypeScript` `Next.js` `Solana`</sub> |
@@ -50,8 +50,8 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=luden-sudo&show_icons=true&hide_border=true&theme=github_dark&title_color=14F1A5&icon_color=A78BFA&ring_color=14F1A5&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luden-sudo&show_icons=true&hide_border=true&title_color=0A8F63&icon_color=7C3AED&ring_color=0A8F63&include_all_commits=true" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=luden-sudo&show_icons=true&hide_border=true&theme=github_dark&title_color=14F1A5&icon_color=A78BFA&ring_color=14F1A5" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luden-sudo&show_icons=true&hide_border=true&title_color=0A8F63&icon_color=7C3AED&ring_color=0A8F63" alt="GitHub stats" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luden-sudo&layout=compact&hide_border=true&theme=github_dark&title_color=14F1A5" />
