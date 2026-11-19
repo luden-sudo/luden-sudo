@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="178" viewBox="0 0 860 178" role="img" aria-label="What I build: web apps, desktop tools, Minecraft plugins and Solana projects">
+<style>
+  .k { opacity: 0; animation: up .5s ease-out forwards; }
+  @keyframes up { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { .k { animation: none; opacity: 1; } }
+</style>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#14f1a5"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<g class="k" style="animation-delay:0.15s">
+  <rect x="0.5" y="0.5" width="203.5" height="177" rx="14" fill="#161b22" stroke="#30363d"/>
+  <rect x="18" y="0.5" width="168.5" height="3" rx="1.5" fill="url(#g)"/>
+  <g transform="translate(20 24) scale(1.25)" fill="none" stroke="#14f1a5" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2.5"/><path d="M2 9h20"/><circle cx="5.5" cy="6.5" r=".6"/><circle cx="8" cy="6.5" r=".6"/><path d="M9 14l-2 2 2 2M15 14l2 2-2 2"/></g>
+  <text x="20" y="96" fill="#e6edf3" style="font:700 18px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">Web apps</text>
+  <text x="20" y="119" fill="#8b949e" style="font:500 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">Apps web</text>
+  <text x="20" y="152" fill="#58a6ff" style="font:500 12.5px ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace">Next.js · Supabase</text>
+</g>
+<g class="k" style="animation-delay:0.33s">
+  <rect x="219" y="0.5" width="203.5" height="177" rx="14" fill="#161b22" stroke="#30363d"/>
+  <rect x="236.5" y="0.5" width="168.5" height="3" rx="1.5" fill="url(#g)"/>
+  <g transform="translate(238.5 24) scale(1.25)" fill="none" stroke="#a78bfa" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="13" rx="2"/><path d="M8 21h8M12 16v5"/><path d="M6 9l2.5 2L6 13M11 13h4"/></g>
+  <text x="238.5" y="96" fill="#e6edf3" style="font:700 18px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">Desktop tools</text>
+  <text x="238.5" y="119" fill="#8b949e" style="font:500 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">Herramientas</text>
+  <text x="238.5" y="152" fill="#58a6ff" style="font:500 12.5px ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace">Python · Tkinter</text>
+</g>
+<g class="k" style="animation-delay:0.51s">
+  <rect x="437.5" y="0.5" width="203.5" height="177" rx="14" fill="#161b22" stroke="#30363d"/>
+  <rect x="455" y="0.5" width="168.5" height="3" rx="1.5" fill="url(#g)"/>
+  <g transform="translate(457 24) scale(1.25)" fill="none" stroke="#14f1a5" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l9 5v10l-9 5-9-5V7z"/><path d="M3 7l9 5 9-5M12 12v10"/></g>
+  <text x="457" y="96" fill="#e6edf3" style="font:700 18px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">Minecraft</text>
+  <text x="457" y="119" fill="#8b949e" style="font:500 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">Plugins</text>
+  <text x="457" y="152" fill="#58a6ff" style="font:500 12.5px ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace">Java · Spigot · Paper</text>
+</g>
+<g class="k" style="animation-delay:0.69s">
+  <rect x="656" y="0.5" width="203.5" height="177" rx="14" fill="#161b22" stroke="#30363d"/>
+  <rect x="673.5" y="0.5" width="168.5" height="3" rx="1.5" fill="url(#g)"/>
+  <g transform="translate(675.5 24) scale(1.25)" fill="none" stroke="#a78bfa" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13.5a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1.2 1.2"/><path d="M14 10.5a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1.2-1.2"/></g>
+  <text x="675.5" y="96" fill="#e6edf3" style="font:700 18px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">On-chain</text>
+  <text x="675.5" y="119" fill="#8b949e" style="font:500 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">Solana</text>
+  <text x="675.5" y="152" fill="#58a6ff" style="font:500 12.5px ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace">TypeScript · Rust</text>
+</g>
+</svg>
