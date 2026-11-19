@@ -12,7 +12,7 @@
 
 - 🌐 I like building **webs** and turning ideas into real products
 - 🎮 Long-time Minecraft server developer (Spigot / Paper plugins)
-- ⛓️ Currently exploring **on-chain gaming on Solana** with Rust + Anchor
+- ⛓️ Currently exploring **on-chain gaming on Solana**
 - 📍 Based in **Spain** · 🗣️ Spanish / English
 
 ### 🛠️ Tech stack
