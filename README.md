@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://luden.work"><img src="https://img.shields.io/badge/Website-luden.work-000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://github.com/ludenelenterrador"><img src="https://img.shields.io/github/followers/ludenelenterrador?label=Followers&style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/luden-sudo"><img src="https://img.shields.io/github/followers/luden-sudo?label=Followers&style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
@@ -35,16 +35,16 @@
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [**luden.work**](https://github.com/ludenelenterrador/luden.work) | Agenda, personal finance & order tracking in one bilingual web app · [live](https://luden.work) | TypeScript · Next.js · Supabase |
-| [**MinecraftServerBuilder**](https://github.com/ludenelenterrador/MinecraftServerBuilder) | CLI that downloads and launches Paper / Spigot / Magma servers (1.8 → 1.20) | Python |
-| [**MultaRoleplay**](https://github.com/ludenelenterrador/MultaRoleplay) | Roleplay fines plugin with history, published on [SpigotMC](https://www.spigotmc.org/resources/multa-roleplay.108668/) | Java · Spigot |
-| [**DiscordStatus**](https://github.com/ludenelenterrador/DiscordStatus) | Tiny Windows app to show any custom "Playing…" status on Discord | Python · Tkinter |
+| [**luden.work**](https://github.com/luden-sudo/luden.work) | Agenda, personal finance & order tracking in one bilingual web app · [live](https://luden.work) | TypeScript · Next.js · Supabase |
+| [**MinecraftServerBuilder**](https://github.com/luden-sudo/MinecraftServerBuilder) | CLI that downloads and launches Paper / Spigot / Magma servers (1.8 → 1.20) | Python |
+| [**MultaRoleplay**](https://github.com/luden-sudo/MultaRoleplay) | Roleplay fines plugin with history, published on [SpigotMC](https://www.spigotmc.org/resources/multa-roleplay.108668/) | Java · Spigot |
+| [**DiscordStatus**](https://github.com/luden-sudo/DiscordStatus) | Tiny Windows app to show any custom "Playing…" status on Discord | Python · Tkinter |
 
 ### 📊 GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ludenelenterrador&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludenelenterrador&layout=compact&hide_border=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luden-sudo&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luden-sudo&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 ---
