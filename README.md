@@ -36,6 +36,7 @@
 | Project | Description | Stack |
 | --- | --- | --- |
 | [**luden.work**](https://github.com/luden-sudo/luden.work) | Agenda, personal finance & order tracking in one bilingual web app · [live](https://luden.work) | TypeScript · Next.js · Supabase |
+| [**ClaimSolana**](https://github.com/luden-sudo/ClaimSolana) | Reclaim the SOL locked in empty Solana token accounts · 0% fees, open source, non-custodial | TypeScript · Next.js · Solana |
 | [**MinecraftServerBuilder**](https://github.com/luden-sudo/MinecraftServerBuilder) | CLI that downloads and launches Paper / Spigot / Magma servers (1.8 → 1.20) | Python |
 | [**MultaRoleplay**](https://github.com/luden-sudo/MultaRoleplay) | Roleplay fines plugin with history, published on [SpigotMC](https://www.spigotmc.org/resources/multa-roleplay.108668/) | Java · Spigot |
 | [**DiscordStatus**](https://github.com/luden-sudo/DiscordStatus) | Tiny Windows app to show any custom "Playing…" status on Discord | Python · Tkinter |
